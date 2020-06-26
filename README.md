@@ -13,3 +13,8 @@ python MAIN.py [genbank] [subject] [identity] [coverage].
 - [--identity]: identity cut-off. Value between 0-100.
 - [--coverage]: coverage cut-off. Value between o-100.
   
+### Installation requirements:
+- Biopython.
+- Blast.
+- Muscle. 
+- Pandas python module. 
